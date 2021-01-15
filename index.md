@@ -1,5 +1,3 @@
-# Hayat Pilates
-
 ![](logo.jpg)
 
 ## Stüdyo Takvimi
@@ -13,4 +11,4 @@
 **Telefon**: [0555 557 07 05](tel:905555770705)<br />
 **WhatsApp**: [905555570705](https://wa.me/905555570705)<br />
 **Instagram**: [@hayatpilates](https://www.instagram.com/hayatpilates/)<br />
-**Facebook**: [https://www.facebook.com/hayatpilates34](https://www.facebook.com/hayatpilates34/)
+**Facebook**: [https://www.facebook.com/hayatpilatess](https://www.facebook.com/hayatpilatess)
