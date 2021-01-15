@@ -12,4 +12,5 @@
 **Google Haritalar**: [https://goo.gl/maps/izdv5cQ3XWQTvHWR7](https://goo.gl/maps/izdv5cQ3XWQTvHWR7)<br />
 **Telefon**: [0555 557 07 05](tel:905555770705)<br />
 **WhatsApp**: [905555570705](https://wa.me/905555570705)<br />
-**Instagram**: [@hayatpilates](https://www.instagram.com/hayatpilates/)
+**Instagram**: [@hayatpilates](https://www.instagram.com/hayatpilates/)<br />
+**Facebook**: [https://www.facebook.com/hayatpilates34](https://www.facebook.com/hayatpilates34/)
