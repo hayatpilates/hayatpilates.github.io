@@ -1,9 +1,5 @@
 ![](logo.jpg)
 
-## Stüdyo Takvimi
-
-<iframe src="https://calendar.google.com/calendar/embed?src=hayatpilates%40gmail.com&ctz=Europe%2FIstanbul" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ## İletişim
 
 **Adres**: Yalı Mh. Doktor Sadık Ahmet Blv. Saygın Sk. Konan Apt. No: 1 D: 2 Maltepe/İstanbul<br />
@@ -13,3 +9,7 @@
 **WhatsApp**: [905555570705](https://wa.me/905555570705)<br />
 **Instagram**: [@hayatpilates](https://www.instagram.com/hayatpilates/)<br />
 **Facebook**: [@hayatpilatess](https://www.facebook.com/hayatpilatess)<br />
+
+## Stüdyo Takvimi
+
+<iframe src="https://calendar.google.com/calendar/embed?src=hayatpilates%40gmail.com&ctz=Europe%2FIstanbul" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
