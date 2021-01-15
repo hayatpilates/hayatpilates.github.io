@@ -8,7 +8,7 @@
 
 **Adres**: Yalı Mh. Doktor Sadık Ahmet Blv. Saygın Sk. Konan Apt. No: 1 D: 2 Maltepe/İstanbul<br />
 **Google Haritalar**: [https://goo.gl/maps/izdv5cQ3XWQTvHWR7](https://goo.gl/maps/izdv5cQ3XWQTvHWR7)<br />
-**Yandex.Haritalar**: [https://yandex.com.tr/harita/-/CCUIV6DdlD](https://yandex.com.tr/harita/-/CCUIV6DdlD)
+**Yandex.Haritalar**: [https://yandex.com.tr/harita/-/CCUIV6DdlD](https://yandex.com.tr/harita/-/CCUIV6DdlD)<br />
 **Telefon**: [0555 557 07 05](tel:905555770705)<br />
 **WhatsApp**: [905555570705](https://wa.me/905555570705)<br />
 **Instagram**: [@hayatpilates](https://www.instagram.com/hayatpilates/)<br />
